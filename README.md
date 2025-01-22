@@ -8,8 +8,12 @@ This is a dumping ground for information related to my neighborhood, Kleinwood. 
   - [CenterPoint Energy Outage Tracker](https://tracker.centerpointenergy.com/map/)
 - Trash [Texas Pride Disposal](https://www.texaspridedisposal.com/)
 - Natural Gas [CenterPoint](https://www.centerpointenergy.com/en-us/residential/services/natural-gas/?sa=ho)
+- HOA
+- Telephone
+- Internet
+- Cable / TV
 
-## Schools
+## Schools / School District / PTO
 
 - Highschool
 - Middle School
@@ -19,6 +23,10 @@ This is a dumping ground for information related to my neighborhood, Kleinwood. 
 
 - Parks | Meyer Park | Pocket Park
 - Community | Barbara Bush Library | Meseum
+- Sports
+- Extracurricular activities
+- Theatre
+  - [DPAC](https://www.dpactexas.org/)
 
 ## Amenities
 
@@ -34,7 +42,9 @@ This is a dumping ground for information related to my neighborhood, Kleinwood. 
 ## Other
  - Automotive | Ray's Tire &amp; Auto
  
-## Lawn Services
+## Lawn &amp; Shrub Services
+
+# Tree Services
 
 ## Pest Control
 - [Pest Frog](http://pestfrog.com)
@@ -43,7 +53,11 @@ This is a dumping ground for information related to my neighborhood, Kleinwood. 
 
 - [Klein Fire Department](https://www.hcesd16.org/)
 
-# Other Topics
+# Weather
+- Burn Bans in effect?
+- [Space City Weather](https://spacecityweather.com/)
+
+# Other Topics and Ideas for the website
 
 - flooding
 - Parks and PickleBall
@@ -51,7 +65,58 @@ This is a dumping ground for information related to my neighborhood, Kleinwood. 
 - Pets
 - Neighborhood activities (4th of July Parade)
 - Taxes / hcad
+- Walkability
+- Realtors
+- Safety
+- Green Spaces
+- Demographics
+- Public Transportation
 
-# Weather
-- Burn Bans in effect?
-- [Space City Weather](https://spacecityweather.com/)
+
+# Distance From / Commutes / Traffic Info
+
+- Shopping
+- Groceries
+- Malls
+- Airport
+- Post Office
+- Banking
+- Retail
+- Churches
+- Other Locations
+  - Downtown
+  - The Woodlands
+  - Commute Times to Downtown/Work Centers
+- Public Transit Access (Bus Stops, Train Stations)
+- Nearby Highways
+- Walkability Score
+- Bikeability Score
+- Traffic Congestion Levels
+
+# Things to do in
+- Spring
+- Summer
+- Winter
+
+# Food &amp; Coffee / Drinks
+
+# Homes
+
+- Years Built
+- Builder
+- Quality
+- Property Types (Single-Family, Condo, Townhouse, etc)
+- Avg number Bed/Bath
+- Percentage of homes with pools
+- Surrounding Neighborhoods
+- Interior details
+  - HVAC
+  - Basement
+  - Levels
+  - Window Types
+  - Fireplace
+  - Ceiling Height
+- Utilities
+  - Water Source (public, well)
+  - Sweer (public, septic)
+  - Average Costs
