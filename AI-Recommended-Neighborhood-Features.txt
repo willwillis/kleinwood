@@ -1,3 +1,53 @@
+Home Features
+Basic Information
+
+    Property Address
+    Listing Price
+    Year Built
+    Property Type (Single-Family, Condo, Townhouse, etc.)
+    Square Footage
+    Number of Bedrooms
+    Number of Bathrooms
+    Lot Size
+    Property Condition (New, Good, Fixer-upper)
+    Architectural Style (Ranch, Colonial, Contemporary, etc.)
+
+Interior Details
+
+    Flooring Type (Hardwood, Tile, Carpet, etc.)
+    Kitchen Features (Island, Pantry, Countertops)
+    Appliances Included
+    HVAC (Heating, Ventilation, Air Conditioning)
+    Number of Levels/Floors
+    Basement (Finished, Unfinished, None)
+    Fireplace (Number, Type)
+    Window Type (Double Pane, Bay Windows, etc.)
+    Interior Paint Color/Condition
+    Ceiling Height
+
+Exterior Details
+
+    Roof Type (Shingle, Metal, Tile, etc.)
+    Exterior Material (Brick, Vinyl, Stucco)
+    Garage Size (1-car, 2-car, Attached, Detached)
+    Driveway Type (Concrete, Gravel, Paved)
+    Landscaping (Front Yard, Backyard, Low Maintenance)
+    Patio/Deck Features
+    Fencing Type
+    Swimming Pool (In-Ground, Above Ground)
+    Outdoor Kitchen or BBQ Area
+    Energy-Efficient Features (Solar Panels, Insulation)
+
+Utility Details
+
+    Water Source (Public, Well)
+    Sewer (Public, Septic Tank)
+    Electric/Gas Provider
+    Internet Provider Options
+    Energy Rating (LEED, Energy Star)
+    Utility Costs (Average Monthly Estimates)
+
+
 Neighborhood Features
 
 Basic Neighborhood Information
